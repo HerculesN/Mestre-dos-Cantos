@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orientação Uso do Dispositivo</title>
+    <link rel="stylesheet" type="text/css" href="css/Style.css"/>
+     
+    
+     
+    </head>
+
+    <body>
+
+        <div class="geral">
+     
+            <nav class="button_ret_principal">
+            <a href = "index.html" target="_blank">RETORNAR A PÁGINA PRINCIPAL<button type="button">
+                </button> </a>            
+            </nav> 
+
+        <nav class="titulo">           
+         <h1>Celulares que provavelmente aceitam o aplicativo: ANDROID 4 ao 12</h1>
+        </nav>
+        <nav class="orient_texto1">
+        
+        <p> O aplicativo foi desenvolvido para celulares antigos, jogados, esquecidos nas gavetas e muitas vezes no lixo.
+            A ideia não é só criar e preservar os pássaros o canto, mas também tirar todo lixo/celular da natureza,
+             estudos relatam de 100 a 500 anos para um celular se decompor, desta forma, porque não torná-lo útil.
+             O <b>download é gratuito </b>, a ideia é ajudar todo tipo de criador, toda classe, esse celular que está aí
+             parado pode ser o Mestre do seu criatório ou do seu pássaro.</p>
+         
+    </nav>    
+
+    <div class="orienta_img">
+        <img src="img/androidIII.png" style="height: 120px; width: 300px;" >
+    </div>    
+
+    
+    
+    <div class="orient_passoapasso">
+        <label><b>Passo a passo para fazer download do aplicativo:</b></label>
+    </div>
+
+    
+    <nav class="nav">
+        <ul>
+            <li>Clique no botão <b>DOWNLOAD</b></li><br>
+            <li>Confirme a instalação do app</li><br>
+            <li>Clique no botão <b>INSTALAR ASSIM MESMO</b></li><br>
+            <li>Instalado...<b>abrir</b></li><br>
+        </ul>
+    </nav>
+
+    <div class="ajude_canal" >        
+            <a href="https://www.paypal.com/donate/?hosted_button_id=DZRSKH3VNH4HE" >Ajude o canal $$$</a> 
+    </div>
+
+    <footer>
+        <nav>
+            <a href="https://go.hotmart.com/V78615852Q" target="_blank" >
+            <nav class="mecanica_img">
+                <img src="img/mecanica_play.png" style="margin: 5px;"></a>            
+            </nav>       
+            
+        
+    </footer>
+            
+           
+    </div>
+
+
+           
+    
+    </body>
+    </html>
