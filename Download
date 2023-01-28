@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download do Aplicativo</title>
+    <link rel="stylesheet" type="text/css" href="css/Style.css"/>
+     
+
+     
+     
+        
+         
+    </head>
+    <body>      
+        <div class="geral">
+        <nav class="download_txt">
+            <div>
+            <nav class="button_ret_principal">
+                <a href = "index.html" target="_blank">RETORNAR A PÁGINA PRINCIPAL<button type="button">
+                    </button> </a>
+            </div>
+                </nav> 
+                
+                <nav class="downloads">
+                <b>DOWNLOADS</b>
+                </nav>
+        </nav>
+            <nav class="download_cantos">
+                
+
+            <div class="download_coleira" style="height: 80px; width: 310px;">
+                <img src="img/Coleiro.JPG" style="height: 25px; width: 25px">                     
+             <a href = "https://drive.google.com/file/d/1ZTDNZTHn7tEiZBGKI0C9n2Cva1xkJBNs/view?usp=share_link" 
+             >Coleiro Clássico 3 Nota C24 - LIBERADO...</a>
+            
+            </div> 
+
+             <div class="download_curio" style="height: 80px; width: 310px">
+                <img src="img/curio.jpg " style="height: 25px; width: 25px;"> 
+             <a href="">Curio Clássico Selo Vermelho- a liberar...</a>
+             
+            </div>
+            <div class="download_pixarro" style="height: 80px; width: 310px">
+                <img src="img/pixarro1.JPG" style="height: 25px; right: 25px;">   
+             <a href="">Pixarro Boca Mole com Virada Caratinga- a liberar...</a>   
+            </div>                   
+            <div class="download_bicudo" style="height: 80px; width: 310px">
+                <img src="img/bicudo.JPG" style="height: 25px; width: 25px;">    
+                <a href="">Bicudo Goiano- a liberar...</a>   
+            </div>
+            <div class="download_azulao" style="height: 80px; width: 310px">
+                <img src="img/azulão.JPG" style="height: 25px; width: 25px;">    
+                <a href="">Azulão 20 20- a liberar... </a>   
+            </div> 
+            <div class="download_terra" style="height: 80px; width: 310px">
+                <img src="img/canario da terra.JPG" style="height: 25px; width: 25px;">    
+                <a href="">Canário da Terra Metralha- a liberar...</a>   
+            </div>
+            <div class="download_fibra" style="height: 80px; width: 310px">
+                <img src="img/coleiraII.jfif" style="height: 25px; width: 25px;"    
+                <a href="https://drive.google.com/file/d/1IoScGrzeO9kKcynXWzlIPtCRtZAvnUsB/view?usp=share_link">Coleiro Canto Fibra- LIBERADO...</a>   
+            </div>
+            <div class="download_campainha" style="height: 80px; width: 310px"> 
+                <img src="img/canario do reino.JPG" style="height: 25px; right: 25px;">   
+                <a href="">Canário do Reino - Campainha- a liberar...</a>   
+            </div>
+            <div class="download_corinthians" style="height: 80px; width: 310px">
+                <img src="img/calopsita.png" style="height: 25px; width: 25px;">    
+                <a href="https://drive.google.com/file/d/1s2WrJdtYTCL8H4Uza3OGXjMJBLcKDNK3/view?usp=share_link">Hino Corinthians- LIBERADO...</a>   
+            </div>
+            <div class="download_flamengo" style="height: 80px; width: 310px">
+                <img src="img/calopsitaII.png" style="height: 25px; width: 25px;">    
+                <a href="https://drive.google.com/file/d/1cDTLM6XqFkstMyXlwUoUtcNIkTbj_tBS/view?usp=share_link">Hino do Flamengo- LIBERADO...</a>   
+            </div>
+            <div class="download_nacional" style="height: 80px; width: 310px">
+                <img src="img/calopsita.png" style="height: 25px; width: 25px;">    
+                <a href="https://drive.google.com/file/d/1ouLxw_ye8yhIjhkvK2KglFS50t2sLM9o/view?usp=share_link">Hino Nacional- LIBERADO...</a>   
+            </div>
+            <div class="download_saoPaulo" style="height: 80px; width: 310px">
+                <img src="img/calopsitaII.png" style="height: 25px; width: 25px;">    
+                <a href="https://drive.google.com/file/d/1pQ4OenmCdPW56rpXtQAK8eNrFzFEfRj6/view?usp=share_link">Hino do São Paulo- LIBERADO...</a>   
+            </div>
+            <div class="download_palmeiras" style="height: 80px; width: 310px">
+                <img src="img/calopsitaII.png" style="height: 25px; right: 25px;">    
+                <a href="https://drive.google.com/file/d/1YO28RxMIxtXXBkkAaVn6Mh0v3-EHXMZJ/view?usp=share_link">Hino do Palmeiras- LIBERADO...</a> 
+                  
+            </div> 
+
+            <div class="download_pantera" style="height: 80px; width: 310px">
+                <img src="img/calopsitaII.png" style="height: 25px; right: 25px;">    
+                <a href=""> Pantera Cor de Rosa- a liberar...</a> 
+                  
+            </div> 
+
+            <div class="download_parabens" style="height: 80px; width: 310px">
+                <img src="img/calopsita.png" style="height: 25px; right: 25px;">    
+                <a href="">Parabéns para Você- a liberar...</a> 
+                  
+            </div> 
+            
+            <div class="ajude_canal">                   
+                <a href="https://www.paypal.com/donate/?hosted_button_id=DZRSKH3VNH4HE">Ajude o canal $$$</a> 
+            </div>
+        
+     
+
+        <div class="paypal">
+            <img src="img/paypal_ok.png" style="height: 50px; width: 120px;">        
+        </div>  
+        
+        
+        
+        <div class="email_img">            
+                <img src="img/email.png" style="width: 50px; height: 50px;">
+        </div>
+        <div class="email">
+            <label>hn.santos2011@gmail.com</label><br>
+            <label>Hercules - Desenvolvedor</label>
+        </div>
+    </nav>  
+    <footer>
+        <nav class="home_img">
+        <a href="https://go.hotmart.com/N78614539S" target="_blank">  
+                    <img src="img/teletrabalho_play.png" style="margin: 10px;"></a>
+        </nav> 
+
+        <div>
+            <div class="container">
+                <button id="buttonDecrement">-</button>
+                <input type="text" value="0" disabled id="counterValue">
+                <button id="buttonIncrement">+</button>
+              </div>
+        </div>
+        <script>
+            const counter = document.querySelector('#counterValue' );
+            const buttonDecrement = document.querySelector('#buttonDecrement');
+            const buttonIncrement = document.querySelector('#buttonIncrement');
+
+            let  value = counter.value;
+
+            buttonIncrement.addEventListener('click',() => {
+             value = ++value;
+             counter.value = value;
+            });
+            buttonDecrement.addEventListener('click', () => {
+            value = value !== 0 ? --value : 0;
+             counter.value = value;
+            });
+              </script>
+
+
+                        
+    </footer>
+    
+    
+
+
+
+</div>
+    
+
+        
+    </body>
+</html>
