@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatação do Aparelho Celular</title>
+    <link rel="stylesheet" type="text/css" href="css/Style.css"/>
+     
+
+
+    </head>
+        <body>
+            <div class="geral">    
+     
+                <nav class="button_ret_principal">     
+                   <a a href = "index.html" target="_blank">RETORNAR A PÁGINA PRINCIPAL<button type="button">
+                </button> </a>      
+                </nav>
+
+     <nav class="format_importante">  
+        
+        <label>
+            IMPORTANTE!
+        </label>        
+    </nav>  
+
+    <nav class="format_formatar">         
+        <label>
+            <b>FORMATAR O APARELHO!!!</b>
+        </label>        
+    </nav>    
+
+     <nav class="format_restaurar" >        
+        <p>
+            Restaurar padrão de fábrica é importantíssimo, para baixar o aplicativo <b>é necessário mais de 2gb de espaço
+            livre</b>. Formatar evita sons estranhos, as notificações de mensagens podem atrapalhar e também é interessante <u><b>
+            deixar o aparelho sem chip</u></b>, o pássaro pode terminar assimilando algum som e prejudicar seu aprendizado. 
+        </p>        
+    </nav>
+
+    <nav class="format_resetar_img">
+        
+        <img src="img/Resetar.XI.JPG" style="height: 200px; width: 280px;">        
+    </nav>
+
+    <nav class="format_resetar_II">        
+        <p5>
+            O Aparelho resetado fará com que a bateria dure muito mais, não terá outros aplicativos ou desvios de energia,
+             <u><b>geralmente carrego o dispositivo no período da noite</u></b>, pois já terminou o treinamento, dependendo do aparelho 
+             não será necessário recarregá-lo durante o dia, deixando o mesmo apenas para passar o canto.
+        </p5>
+    </nav>
+
+    
+         
+    <nav class="barbearia">        
+        
+
+    <nav class="ajude_canal">
+        <div>        
+        <a href="https://www.paypal.com/donate/?hosted_button_id=DZRSKH3VNH4HE" >Ajude o canal $$$</a> 
+        </div>
+    </nav>
+
+    <footer>
+        <nav class="barbearia_img">
+            <a href="https://go.hotmart.com/G78607815I" target="_blank">
+            <img src="img/barbearia_play.png" style="margin: 5px;"></a>
+        </nav>
+    </footer>
+
+
+
+</div>
+
+</body>
+
+
+
+</html>
